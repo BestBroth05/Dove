@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "438189556176",
+    "project_id": "best-mod",
+    "storage_bucket": "best-mod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438189556176:android:ea5fb94d777aff442839d5",
+        "android_client_info": {
+          "package_name": "com.example.best_mod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438189556176-mcmp9caaeiclcbvfnmilvi61cr4hnt6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf4rpQHd62V3YA-SiZiMkVJ9bW3an8qbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438189556176-mcmp9caaeiclcbvfnmilvi61cr4hnt6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
