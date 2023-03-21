@@ -1,4 +1,4 @@
-import 'package:best_mod/Authenticator.dart';
+import 'package:best_mod/models/Authenticator.dart';
 import 'package:best_mod/controllers/auth_firebase.dart';
 import 'package:best_mod/views/sign_up.dart';
 import 'package:firebase_auth/firebase_auth.dart';

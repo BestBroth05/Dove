@@ -1,4 +1,4 @@
-package com.example.best_mod
+package com.bray.best_mod
 
 import io.flutter.embedding.android.FlutterActivity
 

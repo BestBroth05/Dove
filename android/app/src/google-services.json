@@ -1,33 +1,41 @@
 {
   "project_info": {
-    "project_number": "438189556176",
-    "project_id": "best-mod",
-    "storage_bucket": "best-mod.appspot.com"
+    "project_number": "1021127760380",
+    "project_id": "dove2-48164",
+    "storage_bucket": "dove2-48164.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:438189556176:android:ea5fb94d777aff442839d5",
+        "mobilesdk_app_id": "1:1021127760380:android:0a8cc57ef96dbbec807a79",
         "android_client_info": {
-          "package_name": "com.example.best_mod"
+          "package_name": "com.bray.best_mod"
         }
       },
       "oauth_client": [
         {
-          "client_id": "438189556176-mcmp9caaeiclcbvfnmilvi61cr4hnt6h.apps.googleusercontent.com",
+          "client_id": "1021127760380-503nmveb85g9loju4ehvrjsu79caull5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bray.best_mod",
+            "certificate_hash": "a45c8e7b0f7c8b08c49e7734a33124e6cc42b159"
+          }
+        },
+        {
+          "client_id": "1021127760380-eu9tdtm88q3l5rmjm1s7v88kc176b7vf.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDf4rpQHd62V3YA-SiZiMkVJ9bW3an8qbE"
+          "current_key": "AIzaSyBsb1Ti35mc2TFzIctKBblPlJkmhP1RFv8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "438189556176-mcmp9caaeiclcbvfnmilvi61cr4hnt6h.apps.googleusercontent.com",
+              "client_id": "1021127760380-eu9tdtm88q3l5rmjm1s7v88kc176b7vf.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
